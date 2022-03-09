@@ -1,2 +1,2 @@
-## color-flipper app with Bootstrap5 and Vanilla Javascript.
+## color-flipper app with bootstrap5 and vanilla javascript.
 
